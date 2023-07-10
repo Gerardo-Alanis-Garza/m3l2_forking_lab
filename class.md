@@ -1,5 +1,13 @@
-Ricardo.
-
-Iguala de la independencia Guerrero México.
-
-Vertion Control.
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
